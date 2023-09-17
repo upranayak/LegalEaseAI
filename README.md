@@ -18,12 +18,13 @@ These instructions will get you a copy of the project up and running on your loc
 4.  Open http://localhost:8000 in your browser.
 
 ### Features
-* User Registration and Login
-* Indoor fitness program option
-* Outdoor fitness program option
-* Ability to bet on fitness goals and win prizes
-* Discounts on sports Packages
-* Machine Learning model for predicting the vitals of the body
+* User-friendly input interface.
+* AI-powered document generation in plain language.
+* Customization for user-specific needs.
+* Integration with legal resources for accuracy.
+* Expert legal advice option for complex issues.
+* Language Translation available
+
 
 
 ### Built With
