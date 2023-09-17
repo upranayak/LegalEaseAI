@@ -37,3 +37,9 @@ These instructions will get you a copy of the project up and running on your loc
 * [Streamlit](https://streamlit.io/) This is used for the deploying the machine learning model.
 
 ### Contributers
+* Pranayak Uniyal
+* Chandan Kumar
+* Adhiraj Kar
+* Satvik Bhardwaj
+* Adya
+* Vyoma
