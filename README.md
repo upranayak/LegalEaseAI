@@ -1,6 +1,6 @@
 # SIH 2023
 # LegalEaseAI
-Develop an AI solution to simplify legal documentation for individuals and small businesses in India.
+Developing an AI solution to simplify legal documentation for individuals and small businesses in India.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
