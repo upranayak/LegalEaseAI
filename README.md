@@ -7,8 +7,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 * Python
-* Django
-* Sqlite
+* Flask
+* Hugging Face
+* Streamlit
 
 ### Installing
 1.  Clone the Repository : git clone "https://github.com/Joseph2001-braganza/BlueHackVamos"
