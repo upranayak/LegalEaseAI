@@ -1,6 +1,6 @@
 # SIH 2023
 # LegalEaseAI
-This project is an online platform that allows users to participate in indoor and outdoor fitness programs, with the option to bet on their ability to achieve certain fitness goals and win prizes.
+Develop an AI solution to simplify legal documentation for individuals and small businesses in India.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
