@@ -1,6 +1,5 @@
 # SIH 2023
-## LegalEaseAI
-# FitSprint
+# LegalEaseAI
 This project is an online platform that allows users to participate in indoor and outdoor fitness programs, with the option to bet on their ability to achieve certain fitness goals and win prizes.
 
 ## Getting Started
